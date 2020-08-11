@@ -8,3 +8,13 @@ E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\TestProject\obj\D
 E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\TestProject\obj\Debug\TestProject.csproj.CopyComplete
 E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\TestProject\obj\Debug\TestProject.exe
 E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\TestProject\obj\Debug\TestProject.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\bin\Debug\TestProject.exe.config
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\bin\Debug\TestProject.exe
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\bin\Debug\TestProject.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\bin\Debug\SearchSharp.dll
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\bin\Debug\SearchSharp.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\obj\Debug\TestProject.exe
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\TestProject\obj\Debug\TestProject.pdb
