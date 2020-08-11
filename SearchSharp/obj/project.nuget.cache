@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IdCh73oeBpl45811UVrrxkxQn4huiTltgKDv3UqoO5BkHVCrh0kXedMwCLSonucS+A/HV1FWUHVMXF2bFaBx3Q==",
+  "success": true,
+  "projectFilePath": "E:\\HARDDRIVE\\Tanveer\\Internal\\VisualStudioProjects\\Search# src\\SearchSharp\\SearchSharp\\SearchSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanve\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tanve\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

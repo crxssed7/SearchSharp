@@ -1,0 +1,18 @@
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\bin\Debug\netstandard2.0\SearchSharp.deps.json
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\bin\Debug\netstandard2.0\SearchSharp.dll
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\bin\Debug\netstandard2.0\SearchSharp.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.csprojAssemblyReference.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.AssemblyInfoInputs.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.AssemblyInfo.cs
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.csproj.CoreCompileInputs.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.dll
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\bin\Debug\netstandard2.0\SearchSharp.deps.json
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\bin\Debug\netstandard2.0\SearchSharp.dll
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\bin\Debug\netstandard2.0\SearchSharp.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.csprojAssemblyReference.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.AssemblyInfoInputs.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.AssemblyInfo.cs
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.csproj.CoreCompileInputs.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.dll
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Search# src\SearchSharp\SearchSharp\obj\Debug\netstandard2.0\SearchSharp.pdb
