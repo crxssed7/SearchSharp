@@ -29,6 +29,7 @@ namespace TestProject
             Console.WriteLine("Binary Search: " + SearchSharp<int>.Binary(89, data, 0, data.Length));
             Console.WriteLine("Linear Search: " + SearchSharp<int>.Linear(89, data));
             Console.WriteLine("Jump Search: " + SearchSharp<int>.Jump(89, data, 4));
+            Console.WriteLine("Jump Search: " + SearchSharp<int>.Interpolation(89, data, 0, data.Length - 1));
             Console.ReadLine();
 
         }

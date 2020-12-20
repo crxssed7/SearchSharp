@@ -83,8 +83,14 @@ namespace SearchSharp
                 }
             }
 
+            // If goBack is 0, that means we have gone out of the array, without checking the last few elements, so we go back to check them.
+            if (goBack == 0)
+            {
+                goBack = data.Length - block;
+            }
+
             // Simple linear search.
-            for (int j = goBack; j < data.Length; j++)
+            for (int j = goBack; j < goBack + block; j++)
             {
                 if (item == data[j])
                 {
@@ -94,6 +100,32 @@ namespace SearchSharp
 
             // If we get here we know the item does not exist
             throw new Exception("That item is not in the dataset.");
+        }
+
+        public static int Interpolation(int item, int[] data, int low, int high)
+        {
+            // If minimum ends up being bigger than the maximum, then we know the item does not exist
+            if (low >= high)
+            {
+                throw new Exception("That item is not in the dataset.");
+            }
+
+            // Calculate the midpoint
+            int pos = low + (((high - low) / (data[high] - data[low])) * (item - data[low]));
+
+            if (data[pos] < item)
+            {
+                // If the middle item is smaller than the item to be found, then call the function again with modded values
+                return Interpolation(item, data, pos + 1, high);
+            }
+            else if (item < data[pos])
+            {
+                return Interpolation(item, data, low, pos - 1);
+            }
+            else
+            {
+                return pos;
+            }
         }
     }
 }
